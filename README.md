@@ -6,4 +6,4 @@ Las entidades en JPA no son más que objectos que representan datos que pueden p
 
 Eh aquí una aplicación Java implementando estos objetos.
 
-![image]()
+![image](https://github.com/BrunoBeltreGuzman/CRUDwithJavaPersistenceAPI/blob/master/Screenshots.png)
